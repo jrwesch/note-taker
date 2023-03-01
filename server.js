@@ -30,7 +30,7 @@ app.get('/notes', (req,res) =>{
 
 app.get('/api/notes', (req, res) => res.json(dbData));
 
-app.post()
+//app.post()
 
 
 //this function binds and listens for functions on the specified port
